@@ -14,3 +14,7 @@ h5 {
 .description {
   margin-top: -20px;
 }
+
+.instruction{
+  color: red;
+}
