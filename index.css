@@ -56,11 +56,17 @@ a {
   padding-bottom: 170px;
 }
 
+
 .text-block {
   font-weight: 400;
   text-align: center;
   color: white;
 }
+.download {
+    text-align:center;
+  vertical-align:middle;
+}
+
 
 #body2 {
 }
