@@ -7,11 +7,15 @@ a:active {
   color: inherit;
 }
 
-header
+header .nav-bar {
+  background-color: #6495ED;
+}
+
+
 .logo {
   font-family: "Lora", serif;
   font-weight: bold;
-  font-size: 130%;
+  font-size: 180%;
   text-transform: uppercase;
   text-align: left;
   margin-top: 15px;
@@ -21,7 +25,7 @@ header
 .choices ul {
   font-family: "Lora", serif;
   list-style-type: none;
- margin-top: 25px;
+  margin-top: 25px;
   margin-bottom: 15px;
   font-weight: 500;
   font-size: 130%;
@@ -35,3 +39,4 @@ li {
 a {
   padding: 20px;
 }
+
