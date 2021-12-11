@@ -50,17 +50,17 @@ a {
 }
 
 #body1 {
-  background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9%2Fspacejoy-hWwP4LTGEQA-unsplash.jpeg?v=1639232696662");
+  background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9%2Fjon-nathon-stebbe-paydk0JcIOQ-unsplash.jpeg?v=1639240894934");
   background-size: cover;
-  padding-top:70px;
-  padding-bottom: 130px;
+  padding-top:130px;
+  padding-bottom: 170px;
+  opacity: 0.6;
 }
 
 .text-block {
   font-weight: 400;
   text-align: center;
-  background-color: black;
-  color: white;
+
 }
 
 #body2 {
