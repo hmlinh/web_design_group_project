@@ -40,18 +40,30 @@ a {
 }
 
 #doc {
-    padding: 5px;
-    padding-right: 15px;
-    padding-left: 15px;
-    background-color: #d1dffa;
-    border: 1px solid #d1dffa;
-    border-radius: 9px;
+  padding: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+  background-color: #d1dffa;
+  border: 1px solid #d1dffa;
+  border-radius: 9px;
 }
-
-
-
 
 footer {
   background-color: #8db0f2;
+  font-family: "Lora", serif;
 }
 
+h5 {
+  font-weight: 500;
+  font-size: 130%;
+}
+
+.about .container .mail {
+  font-family: "Montserrat", sans-serif;
+  width: 85%;
+}
+.about .container .button-primary {
+  font-family: "Lora", serif;
+  background-color: black;
+  border-color: black;
+}
