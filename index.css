@@ -8,9 +8,8 @@ a:active {
 }
 
 header .nav-bar {
-  background-color: #6495ED;
+  background-color: #8db0f2;
 }
-
 
 .logo {
   font-family: "Lora", serif;
@@ -18,8 +17,8 @@ header .nav-bar {
   font-size: 180%;
   text-transform: uppercase;
   text-align: left;
-  margin-top: 15px;
-  margin-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .choices ul {
@@ -38,5 +37,14 @@ li {
 
 a {
   padding: 20px;
+}
+
+#doc {
+    padding: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: #d1dffa;
+    border: 1px solid #d1dffa;
+    border-radius: 9px;
 }
 
