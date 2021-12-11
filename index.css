@@ -1,4 +1,8 @@
 /* use this file to style your homepage */
+body {
+  font-family: "Lora", serif;
+}
+
 a,
 a:hover,
 a:focus,
@@ -12,7 +16,6 @@ header .nav-bar {
 }
 
 .logo {
-  font-family: "Lora", serif;
   font-weight: bold;
   font-size: 180%;
   text-transform: uppercase;
@@ -22,7 +25,6 @@ header .nav-bar {
 }
 
 .choices ul {
-  font-family: "Lora", serif;
   list-style-type: none;
   margin-top: 30px;
   margin-bottom: 15px;
@@ -48,24 +50,14 @@ a {
   border-radius: 9px;
 }
 
-.main {
-  font-family: "Lora", serif;
+#body1 {
 }
 
-#body1 {}
-
-.main .background1 {
-   background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9%2Fspacejoy-hWwP4LTGEQA-unsplash.jpeg?v=1639232696662");
+#body2 {
 }
-
-#body2 {}
-
-
-
 
 footer {
   background-color: #8db0f2;
-  font-family: "Lora", serif;
 }
 
 h5 {
@@ -75,11 +67,9 @@ h5 {
 }
 
 .about .container .mail {
-  font-family: "Montserrat", sans-serif;
   width: 85%;
 }
 .about .container .button-primary {
-  font-family: "Lora", serif;
   background-color: black;
   border-color: black;
 }
