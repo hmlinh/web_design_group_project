@@ -48,6 +48,10 @@ a {
   border-radius: 9px;
 }
 
+#body2 {
+ background-color: black;
+}
+
 footer {
   background-color: #8db0f2;
   font-family: "Lora", serif;
