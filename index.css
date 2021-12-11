@@ -56,9 +56,11 @@ a {
   padding-bottom: 130px;
 }
 
-.center {
+.text-block {
   font-weight: 400;
   text-align: center;
+  background-color: black;
+  color: white;
 }
 
 #body2 {
