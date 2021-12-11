@@ -12,7 +12,7 @@ a:active {
 }
 
 header .nav-bar {
-  background-color: #8db0f2;
+  background-color: #FFEBCD;
 }
 
 .logo {
@@ -20,13 +20,13 @@ header .nav-bar {
   font-size: 180%;
   text-transform: uppercase;
   text-align: left;
-  margin-top: 25px;
-  margin-bottom: 25px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .choices ul {
   list-style-type: none;
-  margin-top: 30px;
+  margin-top: 20px;
   margin-bottom: 15px;
   font-weight: 500;
   font-size: 130%;
@@ -50,13 +50,10 @@ a {
   border-radius: 9px;
 }
 
-#body1 { background-color: #8db0f2;
-}
-
-#photo1 { 
+#body1 {
   background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9%2Fspacejoy-hWwP4LTGEQA-unsplash.jpeg?v=1639232696662");
   background-size: cover;
-  background-repeat: no-repeat;
+
 }
 
 #body2 {
