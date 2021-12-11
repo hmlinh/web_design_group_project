@@ -1,1 +1,14 @@
 /* use this file to style your homepage */
+
+
+
+
+header ul {
+  font-family: 'Lora', serif;
+   list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-weight: 600;
+  font-size: 110%;
+  text-align: center;
+}
