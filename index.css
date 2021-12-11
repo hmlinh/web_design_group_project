@@ -66,13 +66,14 @@ a {
 }
 
 footer {
-  background-color: #8db0f2;
+  background-color: #FFEBCD;
 }
 
 h5 {
   font-weight: 500;
   font-size: 130%;
   margin-top: 15px;
+  margin-bottom: 5px;
 }
 
 .about .container .mail {
