@@ -1,16 +1,37 @@
 /* use this file to style your homepage */
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+  color: inherit;
+}
 
-header .choices ul {
+header
+.logo {
+  font-family: "Lora", serif;
+  font-weight: bold;
+  font-size: 130%;
+  text-transform: uppercase;
+  text-align: left;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.choices ul {
   font-family: "Lora", serif;
   list-style-type: none;
-  font-weight: 600;
-  font-size: 110%;
- text-align: right;
+ margin-top: 25px;
+  margin-bottom: 15px;
+  font-weight: 500;
+  font-size: 130%;
+  text-align: right;
 }
+
 li {
-   display: inline;
+  display: inline;
 }
+
 a {
-  display: block;
-  padding: 15px;
+  padding: 20px;
 }
