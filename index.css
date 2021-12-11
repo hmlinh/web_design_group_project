@@ -1,14 +1,16 @@
 /* use this file to style your homepage */
 
-
-
-
-header ul {
-  font-family: 'Lora', serif;
-   list-style-type: none;
-  margin: 0;
-  padding: 0;
+header .choices ul {
+  font-family: "Lora", serif;
+  list-style-type: none;
   font-weight: 600;
   font-size: 110%;
-  text-align: center;
+ text-align: right;
+}
+li {
+   display: inline;
+}
+a {
+  display: block;
+  padding: 15px;
 }
