@@ -53,7 +53,8 @@ a {
 #body1 {
   background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9%2Fspacejoy-hWwP4LTGEQA-unsplash.jpeg?v=1639232696662");
   background-size: cover;
-
+  padding-top:70px;
+  padding-bottom: 130px;
 }
 
 #body2 {
