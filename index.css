@@ -73,18 +73,11 @@ a {
   text-align: center;
 }
 
-#body2 {
-  background: rgb(255,233,208);
-background: linear-gradient(126deg, rgba(255,233,208,0.5676645658263305) 29%, rgba(171,224,254,1) 73%);
+#body2{
+    margin-top: 50px;
+  margin-bottom: 50px;
 }
 
-#body2 h1{
-  margin-top: 50px;
-}
-
-#body2 .row {
- margin-top: 50px; 
-}
 
 #body2 p {
    font-size: 150%;
