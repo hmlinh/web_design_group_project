@@ -53,12 +53,14 @@ a {
   background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9%2Fjozsef-koller-0w3NPruCHks-unsplash.jpeg?v=1639317414882");
   background-size: cover;
   background-attachment: fixed;
-  padding-top: 200px;
+  padding-top: 190px;
   padding-bottom: 120px;
 }
 
+
 .text-block {
-  font-weight: 400;
+  font-weight: 500;
+  font-size: 130%;
   text-align: center;
   color: white;
   
