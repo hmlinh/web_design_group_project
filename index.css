@@ -50,10 +50,11 @@ a {
 }
 
 #body1 {
-  background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9%2Fjozsef-koller-0w3NPruCHks-unsplash.jpeg?v=1639241791772");
+  background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9%2Fjozsef-koller-0w3NPruCHks-unsplash.jpeg?v=1639317414882");
   background-size: cover;
-  padding-top: 130px;
-  padding-bottom: 170px;
+  background-attachment: fixed;
+  padding-top: 200px;
+  padding-bottom: 120px;
 }
 
 .text-block {
