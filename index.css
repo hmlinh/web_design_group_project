@@ -72,10 +72,16 @@ a {
 }
 
 #body2 {
-  font-size: 150%;
-  text-align: justify;
-  margin-top: 30px;
+  margin-top: 50px;
   margin-bottom: 30px;
+}
+#body2 .row {
+ margin-top: 50px; 
+}
+
+#body2 p {
+   font-size: 150%;
+  text-align: justify;
 }
 
 #body2 .img {
