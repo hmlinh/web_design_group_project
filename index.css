@@ -12,7 +12,7 @@ a:active {
 }
 
 header .nav-bar {
-  background-color: #FFEBCD;
+  background-color: #ffe9d0;
 }
 
 .logo {
@@ -67,10 +67,13 @@ a {
   vertical-align:middle;
 }
 
-
+#body3 {
+  background: rgb(125,208,255);
+background: linear-gradient(130deg, rgba(125,208,255,1) 0%, rgba(255,235,164,1) 67%, rgba(255,233,208,1) 100%);
+}
 
 footer {
-  background-color: #FFEBCD;
+  background-color: #ffe9d0;
 }
 
 h5 {
