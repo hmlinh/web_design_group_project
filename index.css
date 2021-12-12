@@ -113,6 +113,7 @@ h2 {
 
 #body3 .img {
   text-align: center;
+  margin-bottom: 40px;
 }
 
 #body3 .text {
@@ -150,7 +151,8 @@ h2 {
 }
 #body4 .figma {
   text-align: center;
-  margin-top: 50px;
+  margin-top: 120px;
+  margin-bottom: 40px;
 }
 
 .card {
