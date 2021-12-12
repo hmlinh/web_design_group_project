@@ -80,6 +80,14 @@ text-align: justify;
    margin-top: 30px;
   margin-bottom: 30px;
 }
+.img {
+    text-align: center;
+}
+#i1{
+    max-width: 50%;
+    max-height: 50%;
+  text-align: center;
+}
 
 #body4 {
 background: rgb(171,224,254);
