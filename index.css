@@ -74,15 +74,27 @@ text-align: justify;
   margin-bottom: 30px;
 }
 
+#body2 .img {
+    text-align: center;
+   margin-top: 80px;
+}
+
 #body3 {
 font-size: 150%;
 text-align: justify;
    margin-top: 30px;
   margin-bottom: 30px;
 }
-.img {
+
+#body3 .img {
     text-align: center;
 }
+
+#body3 .text{
+  margin-top: 60px;
+}
+
+
 #i1{
     max-width: 50%;
     max-height: 50%;
