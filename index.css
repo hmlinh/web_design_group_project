@@ -64,22 +64,22 @@ a {
 }
 #body1 h1 {
   line-height: 1.28;
-}
-
-#body1 .text-block {
-  font-weight: 500;
-  font-size: 130%;
-  text-align: center;
-}
-#body1 .text-block .button-primary {
-  
+    text-align: center;
 }
 
 #body1 .text-block .button {
+    text-align: center;
   margin-top: 100px;
-   margin-bottom: 200px;
+  margin-bottom: 100px;
   background-color: #ffe9d0; 
-  border-radius: 60px;
+  border-radius: 80px;
+  font-family: "Lora", serif;
+   font-size: 130%;
+opacity: 0.8;
+  
+}
+#body1 .button-primary {
+  
 }
 
 #body2 h1 {
