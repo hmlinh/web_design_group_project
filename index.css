@@ -182,6 +182,19 @@ h2 {
   margin: 10px;
 }
 
+#body6 .container {
+  position: relative;
+  min-height: 290px;
+}
+
+.feedback {
+  position: absolute;
+}
+.name {
+  text-align: right;
+  
+}
+
 footer {
   background-color: #ffe9d0;
 }
