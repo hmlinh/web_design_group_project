@@ -67,19 +67,20 @@ a {
   line-height: 1.28;
 }
 
-
 #body1 .btn {
-  background-color: #ffe9d0; 
+  background-color: #ffe9d0;
   border-radius: 80px;
   font-family: "Lora", serif;
-   font-size: 130%;
-   margin-top: 100px;
+  font-size: 130%;
+  margin-top: 100px;
   margin-bottom: 100px;
 }
-#body1 .container {text-align: center; }
+#body1 .container {
+  text-align: center;
+}
 
 #background-col {
-   background: rgb(255, 233, 208);
+  background: rgb(255, 233, 208);
   background: linear-gradient(
     126deg,
     rgba(255, 233, 208, 0.5676645658263305) 29%,
@@ -92,7 +93,6 @@ h2 {
   margin-bottom: 30px;
 }
 
-
 #body2 p {
   font-size: 150%;
   text-align: justify;
@@ -101,14 +101,12 @@ h2 {
 #body2 .img {
   text-align: center;
   margin-top: 140px;
-  
 }
 
 #body3 {
   font-size: 150%;
   text-align: justify;
   margin-top: 30px;
-
 }
 
 #body3 .img {
@@ -139,8 +137,6 @@ h2 {
 #linh2 {
   background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9%2Fjon-nathon-stebbe-paydk0JcIOQ-unsplash.jpeg?v=1639241238462");
 }
- 
-
 
 #body4 {
   background: rgb(255, 233, 208);
@@ -150,11 +146,10 @@ h2 {
     rgba(171, 224, 254, 1) 78%
   );
 }
- 
 
 #body4 p {
   text-align: justify;
-    margin-top: 10px;
+  margin-top: 10px;
   font-size: 110%;
 }
 #body4 .figma {
@@ -165,7 +160,7 @@ h2 {
 
 .card {
   border-radius: 5px;
-  box-shadow: 0px 5px 20px 0px rgba(0,0,0,0.3);
+  box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.3);
   min-height: 400px;
   margin-bottom: 15px;
   background: white;
