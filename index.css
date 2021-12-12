@@ -210,11 +210,21 @@ h5 {
   margin-bottom: 5px;
 }
 
- 
 .about .container .mail {
   width: 85%;
 }
 .about .container .button-primary {
   background-color: black;
   border-color: black;
+}
+
+#end .container {
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: Gray;
+}
+
+#end .container p {
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
