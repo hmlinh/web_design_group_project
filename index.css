@@ -200,6 +200,7 @@ h2 {
 
 footer {
   background-color: #ffe9d0;
+  text-align: center;
 }
 
 h5 {
@@ -207,12 +208,9 @@ h5 {
   font-size: 130%;
   margin-top: 15px;
   margin-bottom: 5px;
-  text-align: center;
-}
-.footer {
-  text-align: justify;
 }
 
+ 
 .about .container .mail {
   width: 85%;
 }
