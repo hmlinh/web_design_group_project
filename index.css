@@ -56,7 +56,10 @@ a {
   padding-top: 190px;
   padding-bottom: 120px;
 }
-
+#body1 mark{
+ background-color: #ffe9d0;
+  opacity: 0.7;
+}
 
 .text-block {
   font-weight: 500;
