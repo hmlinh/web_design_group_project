@@ -126,17 +126,19 @@ a {
     rgba(171, 224, 254, 1) 78%
   );
 }
-#body4 .card {
+ 
+#body4 p {
+  text-align: justify;
+  font-size: 110%;
+  
+}
+
+.card {
   border-radius: 5px;
   box-shadow: 0px 5px 20px 0px rgba(0,0,0,0.3);
   min-height: 400px;
   margin-bottom: 15px;
   background: white;
-}
-
-
-#body4 p {
-  text-align: justify;
 }
 
 footer {
