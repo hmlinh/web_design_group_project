@@ -71,10 +71,16 @@ a {
   font-size: 130%;
   text-align: center;
 }
-#body1 .button-primary {
-  background-color: 
+#body1 .text-block .button-primary {
+  
 }
 
+#body1 .text-block .button {
+  margin-top: 100px;
+   margin-bottom: 200px;
+  background-color: #ffe9d0; 
+  border-radius: 60px;
+}
 
 #body2 h1 {
   margin-top: 50px;
