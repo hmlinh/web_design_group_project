@@ -138,6 +138,10 @@ h2 {
   background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9%2Fjon-nathon-stebbe-paydk0JcIOQ-unsplash.jpeg?v=1639241238462");
 }
 
+#linh3 {
+  background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9%2Fhe-gong-2VCtLsPEaWI-unsplash.jpeg?v=1639346746698");
+}
+
 #body4 {
   background: rgb(255, 233, 208);
   background: linear-gradient(
@@ -150,18 +154,18 @@ h2 {
 #body4 p {
   text-align: justify;
   margin-top: 10px;
-  font-size: 110%;
+  font-size: 120%;
 }
 #body4 .figma {
   text-align: center;
-  margin-top: 120px;
-  margin-bottom: 40px;
+  margin-top: 130px;
+  margin-bottom: 50px;
 }
 
 .card {
   border-radius: 5px;
   box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.3);
-  min-height: 290px;
+  min-height: 300px;
   margin-bottom: 50px;
   background-color: #ffe9d0;
   position: relative;
@@ -176,25 +180,22 @@ h2 {
 
 .card-text {
   text-align: center;
-  font-size: 110%;
+  font-size: 120%;
   position: absolute;
   margin: 10px;
 }
 .feedback {
   font-size: 120%;
-
 }
 .name {
   text-align: right;
   font-size: 120%;
 }
 
-
 #body6 .container {
-    margin-bottom: 30px;
-    border-top-style: solid;
-    border-top-width: 1px;
-    border-top-color: Gray;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: Gray;
 }
 
 footer {
