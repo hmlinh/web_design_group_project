@@ -68,9 +68,17 @@ a {
 
 #body2 {
 text-align: justify;
+   margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 #body3 {
+text-align: justify;
+   margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#body4 {
 background: rgb(171,224,254);
 background: linear-gradient(164deg, rgba(171,224,254,1) 0%, rgba(255,241,191,1) 62%, rgba(255,233,208,1) 74%);
 }
