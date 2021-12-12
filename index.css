@@ -44,18 +44,17 @@ a {
   padding: 5px;
   padding-right: 15px;
   padding-left: 15px;
-  background-color: #d1dffa;
-  border: 1px solid #d1dffa;
+  background-color: #abe0fe;
+  border: 1px solid #abe0fe;
   border-radius: 9px;
 }
 
 #body1 {
   background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9%2Fjozsef-koller-0w3NPruCHks-unsplash.jpeg?v=1639241791772");
   background-size: cover;
-  padding-top:130px;
+  padding-top: 130px;
   padding-bottom: 170px;
 }
-
 
 .text-block {
   font-weight: 400;
@@ -63,13 +62,17 @@ a {
   color: white;
 }
 .download {
-    text-align:center;
-  vertical-align:middle;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#body2 {
+text-align: justify;
 }
 
 #body3 {
-  background: rgb(125,208,255);
-background: linear-gradient(130deg, rgba(125,208,255,1) 0%, rgba(255,235,164,1) 67%, rgba(255,233,208,1) 100%);
+background: rgb(171,224,254);
+background: linear-gradient(164deg, rgba(171,224,254,1) 0%, rgba(255,241,191,1) 62%, rgba(255,233,208,1) 74%);
 }
 
 footer {
