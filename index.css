@@ -58,7 +58,6 @@ a {
   padding-bottom: 120px;
 }
 
-
 #body1 mark {
   background-color: #ffe9d0;
   opacity: 0.8;
@@ -73,8 +72,8 @@ a {
   text-align: center;
 }
 
-#body2 h1{
-    margin-top: 50px;
+#body2 h1 {
+  margin-top: 50px;
   margin-bottom: 50px;
 }
 #body2 mark {
@@ -82,7 +81,7 @@ a {
 }
 
 #body2 p {
-   font-size: 150%;
+  font-size: 150%;
   text-align: justify;
 }
 
@@ -110,20 +109,27 @@ a {
   max-height: 50%;
 }
 
+#linh {
+  background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9%2Fphoto-1618221195710-dd6b41faaea6.jpeg?v=1639241761752");
+  height: 50vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 #body4 {
-  background: rgb(171, 224, 254);
+  background: rgb(255, 233, 208);
   background: linear-gradient(
-    164deg,
-    rgba(171, 224, 254, 1) 0%,
-    rgba(255, 241, 191, 1) 62%,
-    rgba(255, 233, 208, 1) 74%
+    126deg,
+    rgba(255, 233, 208, 0.5676645658263305) 29%,
+    rgba(171, 224, 254, 1) 78%
   );
 }
 #body4 p {
-   font-size: 150%;
+  font-size: 150%;
   text-align: justify;
 }
-
 
 footer {
   background-color: #ffe9d0;
