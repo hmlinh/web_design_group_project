@@ -13,23 +13,22 @@ a:active {
 
 header .nav-bar {
   background-color: #ffe9d0;
-    opacity: 0.7;
- margin-bottom: 200px; 
-  
+  opacity: 0.7;
+  margin-bottom: 200px;
 }
 
 .logo {
   font-weight: bold;
   font-size: 180%;
   text-align: left;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .choices ul {
   list-style-type: none;
   margin-top: 26px;
-  margin-bottom: 10px;
+  margin-bottom: 25px;
   font-weight: 500;
   font-size: 130%;
   text-align: right;
@@ -53,60 +52,64 @@ a {
 }
 
 #background-img {
-  background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9%2Fjozsef-koller-0w3NPruCHks-unsplash.jpeg?v=1639317414882");
+  background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9%2Fjozsef-koller-0w3NPruCHks-unsplash.jpeg?v=1639320385639");
   background-size: cover;
   background-attachment: fixed;
   padding-bottom: 120px;
 }
-#body1 mark{
- background-color: #ffe9d0;
+#body1 mark {
+  background-color: #ffe9d0;
   opacity: 0.7;
+}
+#body1 h1 {
+  line-height: 1.28;
 }
 
 .text-block {
   font-weight: 500;
   font-size: 130%;
   text-align: center;
-  
 }
 
-
 #body2 {
-font-size: 150%;
-text-align: justify;
-   margin-top: 30px;
+  font-size: 150%;
+  text-align: justify;
+  margin-top: 30px;
   margin-bottom: 30px;
 }
 
-
 #body2 .img {
-    text-align: center;
+  text-align: center;
 }
 
 #body3 {
-font-size: 150%;
-text-align: justify;
-   margin-top: 30px;
+  font-size: 150%;
+  text-align: justify;
+  margin-top: 30px;
   margin-bottom: 30px;
 }
 
 #body3 .img {
-    text-align: center;
+  text-align: center;
 }
 
-#body3 .text{
+#body3 .text {
   margin-top: 60px;
 }
 
-
-#i1{
-    max-width: 50%;
-    max-height: 50%;
+#i1 {
+  max-width: 50%;
+  max-height: 50%;
 }
 
 #body4 {
-background: rgb(171,224,254);
-background: linear-gradient(164deg, rgba(171,224,254,1) 0%, rgba(255,241,191,1) 62%, rgba(255,233,208,1) 74%);
+  background: rgb(171, 224, 254);
+  background: linear-gradient(
+    164deg,
+    rgba(171, 224, 254, 1) 0%,
+    rgba(255, 241, 191, 1) 62%,
+    rgba(255, 233, 208, 1) 74%
+  );
 }
 
 footer {
