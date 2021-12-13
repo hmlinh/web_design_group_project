@@ -63,35 +63,13 @@ h2 {
   padding-bottom: 20px;
 }
 
-#body2 p {
-  font-size: 150%;
+p {
+  font-size: 100%;
   text-align: justify;
 }
 
-#body2 .img {
-  text-align: center;
-  margin-top: 140px;
-}
 
-#body3 {
-  font-size: 150%;
-  text-align: justify;
-  margin-top: 30px;
-}
 
-#body3 .img {
-  text-align: center;
-  margin-bottom: 50px;
-}
-
-#body3 .text {
-  margin-top: 60px;
-}
-
-#body3 #i1 {
-  max-width: 50%;
-  max-height: 50%;
-}
 
 footer {
   background-color: #ffe9d0;
