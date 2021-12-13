@@ -72,6 +72,18 @@ h3 {
   padding-right: 60px;
 }
 
+.body .container {
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: Gray;
+}
+
+img {
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-bottom: 30px;
+}
+
 footer {
   background-color: #ffe9d0;
   text-align: center;
