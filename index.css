@@ -71,7 +71,7 @@ a {
   background-color: #ffe9d0;
   border-radius: 80px;
   font-family: "Lora", serif;
-  font-size: 120%;
+  font-size: 130%;
   margin-top: 100px;
   margin-bottom: 100px;
 }
@@ -90,11 +90,11 @@ a {
 
 h2 {
   padding-top: 40px;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
 
 #body2 p {
-  font-size: 120%;
+  font-size: 130%;
   text-align: justify;
 }
 
@@ -107,7 +107,7 @@ h2 {
 
 
 #body3 {
-  font-size: 120%;
+  font-size: 130%;
   text-align: justify;
 }
 
@@ -118,7 +118,7 @@ h2 {
 }
 
 #body3 .text {
-  margin-top: 95px;
+  margin-top: 90px;
 }
 
 #body3 #i1 {
@@ -156,11 +156,11 @@ h2 {
 
 #body4 .text {
   text-align: justify;
-  font-size: 120%;
+  font-size: 130%;
 }
 #body4 .figma {
   text-align: center;
-  margin-top: 130px;
+  margin-top: 120px;
   margin-bottom: 50px;
 }
 
@@ -182,12 +182,12 @@ h2 {
 
 .card-text {
   text-align: center;
-  font-size: 120%;
+  font-size: 130%;
   position: absolute;
   margin: 10px;
 }
 .feedback {
-  font-size: 120%;
+  font-size: 130%;
 }
 .name {
   text-align: right;
