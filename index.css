@@ -71,7 +71,7 @@ a {
   background-color: #ffe9d0;
   border-radius: 80px;
   font-family: "Lora", serif;
-  font-size: 130%;
+  font-size: 120%;
   margin-top: 100px;
   margin-bottom: 100px;
 }
@@ -94,7 +94,7 @@ h2 {
 }
 
 #body2 p {
-  font-size: 130%;
+  font-size: 120%;
   text-align: justify;
 }
 
@@ -107,7 +107,7 @@ h2 {
 
 
 #body3 {
-  font-size: 130%;
+  font-size: 120%;
   text-align: justify;
 }
 
@@ -154,10 +154,9 @@ h2 {
   );
 }
 
-#body4 p {
+#body4 .text {
   text-align: justify;
-  margin-top: 10px;
-  font-size: 130%;
+  font-size: 120%;
 }
 #body4 .figma {
   text-align: center;
@@ -183,12 +182,12 @@ h2 {
 
 .card-text {
   text-align: center;
-  font-size: 130%;
+  font-size: 120%;
   position: absolute;
   margin: 10px;
 }
 .feedback {
-  font-size: 130%;
+  font-size: 120%;
 }
 .name {
   text-align: right;
