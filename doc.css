@@ -2,3 +2,123 @@
 body {
   font-family: "Lora", serif;
 }
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+  color: inherit;
+}
+
+header .nav-bar {
+  background-color: #ffe9d0;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 180%;
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+.choices ul {
+  list-style-type: none;
+  margin-top: 26px;
+  margin-bottom: 25px;
+  font-weight: 500;
+  font-size: 130%;
+  text-align: right;
+}
+
+li {
+  display: inline;
+}
+
+a {
+  padding: 20px;
+}
+
+#home {
+  padding: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+  background-color: #abe0fe;
+  border: 1px solid #abe0fe;
+  border-radius: 9px;
+}
+
+
+#background-col {
+  background: rgb(255, 233, 208);
+  background: linear-gradient(
+    126deg,
+    rgba(255, 233, 208, 0.5676645658263305) 29%,
+    rgba(171, 224, 254, 1) 78%
+  );
+}
+
+h2 {
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+#body2 p {
+  font-size: 150%;
+  text-align: justify;
+}
+
+#body2 .img {
+  text-align: center;
+  margin-top: 140px;
+}
+
+#body3 {
+  font-size: 150%;
+  text-align: justify;
+  margin-top: 30px;
+}
+
+#body3 .img {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+#body3 .text {
+  margin-top: 60px;
+}
+
+#body3 #i1 {
+  max-width: 50%;
+  max-height: 50%;
+}
+
+footer {
+  background-color: #ffe9d0;
+  text-align: center;
+}
+
+h5 {
+  font-weight: 500;
+  font-size: 130%;
+  margin-bottom: 10px;
+}
+
+.about .container .mail {
+  width: 85%;
+}
+.about .container .button-primary {
+  background-color: black;
+  border-color: black;
+}
+
+#end .container {
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: Gray;
+}
+
+#end .container p {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
