@@ -78,7 +78,11 @@ a {
 #body1 .container {
   text-align: center;
 }
-#body1
+#body1 img{
+  max-width: 40%;
+  max-height: 40%;
+
+}
 
 #background-col {
   background: rgb(255, 233, 208);
