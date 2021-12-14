@@ -83,6 +83,9 @@ a {
   max-height: 40%;
 
 }
+#body1 .store {
+
+}
 
 #background-col {
   background: rgb(255, 233, 208);
@@ -91,6 +94,8 @@ a {
     rgba(255, 233, 208, 0.5676645658263305) 29%,
     rgba(171, 224, 254, 1) 78%
   );
+ 
+}
 }
 
 h2 {
