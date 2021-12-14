@@ -59,7 +59,7 @@ a {
 
 h3 {
   text-align: center;
-  padding-top: 40px;
+  padding-top: 30px;
   padding-left: 50px;
   padding-right: 50px;
 }
@@ -73,8 +73,13 @@ h3 {
 .body #design-thinking {
   list-style-type: disc;
   font-size: 120%;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
+#cja {
+  font-size: 90%;
+}
 
 img {
   padding-left: 60px;
