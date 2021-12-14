@@ -161,6 +161,9 @@ h2 {
   margin-top: 120px;
   margin-bottom: 50px;
 }
+#body4 #instruction {
+  list-style-type: disc;
+}
 
 .card {
   border-radius: 5px;
