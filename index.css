@@ -74,6 +74,7 @@ a {
   font-size: 130%;
   margin-top: 100px;
   margin-bottom: 100px;
+  color: black;
 }
 #body1 .container {
   text-align: center;
@@ -93,7 +94,6 @@ margin-top: 0px;
     rgba(255, 233, 208, 0.5676645658263305) 29%,
     rgba(171, 224, 254, 1) 78%
   );
- 
 }
 
 h2 {
@@ -171,7 +171,7 @@ h2 {
 }
 #body4 #instruction {
   list-style-type: disc;
-    padding-left: 30px;
+  padding-left: 30px;
 }
 
 .card {
