@@ -171,6 +171,7 @@ h2 {
 }
 #body4 #instruction {
   list-style-type: disc;
+    padding-left: 30px;
 }
 
 .card {

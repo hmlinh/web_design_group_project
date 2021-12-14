@@ -31,7 +31,7 @@ header .nav-bar {
   text-align: right;
 }
 
-li {
+.choices li {
   display: inline;
 }
 
@@ -69,6 +69,10 @@ h3 {
   text-align: justify;
   padding-left: 50px;
   padding-right: 50px;
+}
+.body #design-thinking {
+  list-style-type: disc;
+  font-size: 120%;
 }
 
 
