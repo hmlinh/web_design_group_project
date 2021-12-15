@@ -80,7 +80,7 @@ a {
   height: auto;
 }
 
-.btn:hover :before {
+.btn:hover {
   background-color: #abe0fe;
 }
 
