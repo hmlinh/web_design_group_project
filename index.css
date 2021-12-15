@@ -14,7 +14,7 @@ a:active {
 header .nav-bar {
   background-color: #ffe9d0;
   opacity: 0.8;
-  margin-bottom: 180px;
+  margin-bottom: 170px;
 }
 
 .logo {
@@ -51,17 +51,17 @@ a {
   border-radius: 9px;
 }
 
-#background-img {
+/* #background-img {
   background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9%2Fjozsef-koller-0w3NPruCHks-unsplash.jpeg?v=1639320385639");
   background-size: cover;
   background-attachment: fixed;
   padding-bottom: 120px;
-}
+} */
 
-#body1 mark {
+/* #body1 mark {
   background-color: #ffe9d0;
   opacity: 0.8;
-}
+} */
 
 #body1 h1 {
   line-height: 1.28;
@@ -110,11 +110,13 @@ h2 {
   padding-bottom: 10px;
    color: #744F07;
 }
+#body2 {
+    line-height: 40px;
+}
 
 #body2 p {
   font-size: 130%;
   text-align: justify;
-  line-height: 180%;
 }
 
 #body2 #i1 {
@@ -126,6 +128,7 @@ h2 {
 #body3 {
   font-size: 130%;
   text-align: justify;
+  line-height: 40px;
 }
 
 #body3 .img {
