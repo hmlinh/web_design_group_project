@@ -201,6 +201,10 @@ h2 {
 #body4 p {
   line-height: 40px;
 }
+#body4 .image {
+  text-align: center;
+}
+
 
 .card {
   border-radius: 5px;
