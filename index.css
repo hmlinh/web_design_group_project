@@ -68,7 +68,7 @@ a {
   text-transform: capitalize;
 }
 
-#body1 .offset {
+#body1 .btn {
   background-color: #ffe9d0;
   border-radius: 80px;
   font-family: "Lora", serif;
@@ -80,7 +80,9 @@ a {
   height: auto;
 }
 
-.offset:hover,
+.btn:hover :before {
+  background-color: #abe0fe;
+}
 
 #body1 .container {
   text-align: center;
