@@ -66,6 +66,7 @@ a {
 #body1 h1 {
   line-height: 1.28;
   text-transform: capitalize;
+   color: #744F07;
 }
 
 #body1 .btn {
@@ -107,11 +108,13 @@ margin-top: 0px;
 h2 {
   padding-top: 40px;
   padding-bottom: 10px;
+   color: #744F07;
 }
 
 #body2 p {
   font-size: 130%;
   text-align: justify;
+  line-height: 180%;
 }
 
 #body2 #i1 {
@@ -196,6 +199,7 @@ h2 {
   background: #abe0fe;
   padding-top: 20px;
   padding-bottom: 15px;
+
 }
 
 .card-text {
@@ -227,6 +231,7 @@ h5 {
   font-weight: 500;
   font-size: 130%;
   margin-bottom: 5px;
+ color: #744F07;
 }
 
 footer p {
