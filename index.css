@@ -68,7 +68,7 @@ a {
   text-transform: capitalize;
 }
 
-#body1 .btn {
+#body1 .offset {
   background-color: #ffe9d0;
   border-radius: 80px;
   font-family: "Lora", serif;
@@ -79,6 +79,9 @@ a {
   padding: 16px;
   height: auto;
 }
+
+.offset:hover,
+
 #body1 .container {
   text-align: center;
 }
@@ -143,7 +146,7 @@ h2 {
   background-size: cover;
 }
 #linh {
-  background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9%2Ferik-mclean-fSLI8RdCdyk-unsplash.jpeg?v=1639327485788");
+  background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9/pexels-photo-6956847.jpeg?v=1639562372633");
 }
 
 #linh2 {
