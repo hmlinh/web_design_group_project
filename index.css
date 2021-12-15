@@ -224,7 +224,14 @@ h2 {
 .card-title {
   text-align: center;
   background: #abe0fe;
-  padding-top: 20px;
+  padding-top: 35px;
+  padding-bottom: 35px;
+}
+
+.card-title1 {
+  text-align: center;
+  background: #abe0fe;
+  padding-top: 15px;
   padding-bottom: 15px;
 }
 
