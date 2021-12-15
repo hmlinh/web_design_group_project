@@ -122,7 +122,7 @@ h2 {
 }
 
 #body2 #i1 {
-  margin-top: 120px;
+  margin-top: 80px;
   max-width: 60%;
   max-height: 60%;
 }
@@ -133,9 +133,9 @@ h2 {
   line-height: 40px;
 }
 
-#body3 .img {
+.img {
   text-align: center;
-  margin-top: 30px;
+  margin-top: 20px;
   margin-bottom: 40px;
 }
 
@@ -144,8 +144,8 @@ h2 {
 }
 
 #body3 #i2 {
-  max-width: 65%;
-  max-height: 65%;
+  max-width: 70%;
+  max-height: 70%;
 }
 
 .imageheader {
@@ -167,7 +167,7 @@ h2 {
   background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9%2Fhe-gong-2VCtLsPEaWI-unsplash.jpeg?v=1639346746698");
 }
 
-#body4 {
+#instruction {
   background: rgb(255, 233, 208);
   background: linear-gradient(
     126deg,
@@ -186,10 +186,10 @@ h2 {
   margin-bottom: 50px;
 }
 
-#body4 #i1 {
-  margin-top: 120px;
-  max-width: 60%;
-  max-height: 60%;
+#body4 #i3 {
+  margin-top: 40px;
+  max-width: 70%;
+  max-height: 70%;
 }
 
 #body4 p {
