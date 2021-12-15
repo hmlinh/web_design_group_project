@@ -60,14 +60,14 @@ a {
   background-color: #ffe9d0;
   opacity: 0.8;
 } */
-#body1{
+#body1 {
   background-color: #ffe9d0;
 }
 
 #body1 h1 {
   line-height: 1.28;
   text-transform: capitalize;
-   color: #744F07;  
+  color: #744F07;
   padding-top: 150px;
 }
 
@@ -110,10 +110,10 @@ margin-top: 0px;
 h2 {
   padding-top: 40px;
   padding-bottom: 10px;
-   color: #744F07;
+  color: #744F07;
 }
 #body2 {
-    line-height: 40px;
+  line-height: 40px;
 }
 
 #body2 p {
@@ -187,13 +187,19 @@ h2 {
 }
 
 #body4 #i3 {
-  margin-top: 40px;
-  max-width: 70%;
-  max-height: 70%;
+  margin-top: 60px;
+  max-width: 65%;
+  max-height: 65%;
 }
-
+#body4 #i4 {
+  max-width: 65%;
+  max-height: 65%;
+}
+#body4 .step {
+  margin-top: 160px;
+}
 #body4 p {
-line-height: 40px;
+  line-height: 40px;
 }
 
 .card {
@@ -210,7 +216,6 @@ line-height: 40px;
   background: #abe0fe;
   padding-top: 20px;
   padding-bottom: 15px;
-
 }
 
 .card-text {
@@ -242,7 +247,7 @@ h5 {
   font-weight: 500;
   font-size: 130%;
   margin-bottom: 5px;
- color: #744F07;
+  color: #744F07;
 }
 
 footer p {
