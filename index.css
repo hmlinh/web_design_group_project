@@ -180,14 +180,20 @@ h2 {
   text-align: justify;
   font-size: 130%;
 }
-#body4 .figma {
+#body4 #device {
   text-align: center;
-  margin-top: 120px;
+  margin-top: 90px;
   margin-bottom: 50px;
 }
-#body4 #instruction {
-  list-style-type: disc;
-  padding-left: 30px;
+
+#body4 #i1 {
+  margin-top: 120px;
+  max-width: 60%;
+  max-height: 60%;
+}
+
+#body4 p {
+line-height: 40px;
 }
 
 .card {
