@@ -76,7 +76,8 @@ a {
   margin-top: 70px;
   margin-bottom: 100px;
   color: black;
-  
+  padding: 16px;
+  height: auto;
 }
 #body1 .container {
   text-align: center;
