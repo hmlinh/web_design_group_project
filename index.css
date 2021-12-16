@@ -4,7 +4,6 @@ body {
 }
 
 a,
-a:hover,
 a:focus,
 a:active {
   text-decoration: none;
@@ -49,6 +48,7 @@ a {
   border: 1px solid #abe0fe;
   border-radius: 9px;
 }
+#doc .
 
 
 #body1 {
