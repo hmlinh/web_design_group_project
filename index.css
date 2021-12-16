@@ -41,9 +41,6 @@ a {
   padding: 20px;
 }
 
-.choices a :hover {
-  color: white;
-}
 
 #doc {
   padding: 5px;
@@ -56,7 +53,7 @@ a {
 
 
 #body1 {
-  background-color: #ffe9d0;
+  background-color: white;
 }
 
 #body1 h1 {

@@ -12,7 +12,7 @@ a:active {
 
 header .nav-bar {
   background-color: #ffe9d0;
-   color: #744F07;
+  color: #744F07;
 }
 
 .logo {
@@ -115,6 +115,7 @@ h5 {
 
 footer p {
   margin-top: 15px;
+  margin-bottom: 0px;
 }
 
 #end .container {
@@ -131,9 +132,12 @@ footer p {
 footer .button {
   font-family: "Work Sans", sans-serif;
   background-color: #abe0fe;
-  border-color: #abe0fe;
+   border-radius: 20px;
 }
-
+#mail :hover {
+  color: white;
+   background-color: #57c2ff;
+}
 #contact {
   margin-bottom: 10px;
 }
