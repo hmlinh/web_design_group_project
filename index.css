@@ -23,6 +23,9 @@ header .nav-bar {
   margin-top: 20px;
   margin-bottom: 15px;
 }
+.smarthermo {
+  width: 130%;
+}
 
 .choices ul {
   list-style-type: none;
