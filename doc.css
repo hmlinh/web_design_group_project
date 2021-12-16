@@ -1,7 +1,6 @@
 /* use this file to style your documentation */
 body {
   font-family: "Lora", serif;
-  color: #744F07;
 }
 a,
 a:hover,
@@ -65,6 +64,7 @@ h3 {
   padding-top: 20px;
   padding-left: 50px;
   padding-right: 50px;
+   color: #744F07;
 }
 
 .body p {
