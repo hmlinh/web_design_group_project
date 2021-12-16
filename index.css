@@ -240,12 +240,17 @@ h2 {
   position: absolute;
   margin: 10px;
 }
+
+.tes {
+  max-width: 65%;
+}
 .feedback {
   font-size: 130%;
+  text-align: center;
 }
 .name {
-  text-align: right;
-  font-size: 105%;
+  text-align: center;
+  font-size: 100%;
 }
 
 #body6 .container {
