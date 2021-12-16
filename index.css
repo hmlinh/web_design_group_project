@@ -52,7 +52,8 @@ a {
 
 
 #body1 {
-  background-color: white;
+background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9/ATE-Article-19-Header.png?v=1639695468753");
+  background-size: cover;
 }
 
 #body1 h1 {
