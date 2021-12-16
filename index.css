@@ -240,6 +240,7 @@ h2 {
 .name {
   text-align: center;
   font-size: 100%;
+  margin-bottom: 50px;
 }
 
 #body6 .container {
@@ -257,6 +258,7 @@ h5 {
   font-weight: 500;
   font-size: 130%;
   margin-bottom: 5px;
+  margin-top: 10px;
   color: #744F07;
 }
 
