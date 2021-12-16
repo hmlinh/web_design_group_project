@@ -50,17 +50,7 @@ a {
   border-radius: 9px;
 }
 
-/* #background-img {
-  background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9%2Fjozsef-koller-0w3NPruCHks-unsplash.jpeg?v=1639320385639");
-  background-size: cover;
-  background-attachment: fixed;
-  padding-bottom: 120px;
-} */
 
-/* #body1 mark {
-  background-color: #ffe9d0;
-  opacity: 0.8;
-} */
 #body1 {
   background-color: #ffe9d0;
 }
@@ -80,7 +70,6 @@ a {
   font-size: 130%;
   margin-top: 40px;
   margin-bottom: 150px;
-  color: black;
   padding: 16px;
   height: auto;
   color: #744F07;
@@ -285,7 +274,7 @@ footer p {
 footer .button {
   font-family: "Work Sans", sans-serif;
   background-color: #abe0fe;
-  border-color: #abe0fe;
+   border-radius: 10px;
 }
 
 #contact {
