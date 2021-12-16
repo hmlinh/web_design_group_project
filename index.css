@@ -12,7 +12,7 @@ a:active {
 }
 
 header .nav-bar {
-  background-color: #fecf9a;
+  background-color: #ffe9d0;
   color: #744F07;
 }
 
@@ -39,6 +39,10 @@ header .nav-bar {
 
 a {
   padding: 20px;
+}
+
+.choices a :hover {
+  color: white;
 }
 
 #doc {
@@ -77,6 +81,7 @@ a {
 
 #body1 a :hover {
   background-color: #57c2ff;
+  color: white;
 }
 
 #body1 .container {
@@ -274,9 +279,12 @@ footer p {
 footer .button {
   font-family: "Work Sans", sans-serif;
   background-color: #abe0fe;
-   border-radius: 10px;
+   border-radius: 20px;
 }
-
+#mail :hover {
+  color: white;
+   background-color: #57c2ff;
+}
 #contact {
   margin-bottom: 10px;
 }
