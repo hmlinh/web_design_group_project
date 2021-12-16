@@ -52,8 +52,10 @@ a {
 
 
 #body1 {
-background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9/ATE-Article-19-Header.png?v=1639695468753");
+background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9/Smart%2BThermostats.jpeg?v=1639695885419");
   background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 #body1 h1 {
@@ -149,9 +151,9 @@ h2 {
   background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9%2Fjon-nathon-stebbe-paydk0JcIOQ-unsplash.jpeg?v=1639241238462");
 }
 
-#linh3 {
+/* #linh3 {
   background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9%2Fhe-gong-2VCtLsPEaWI-unsplash.jpeg?v=1639346746698");
-}
+} */
 
 #instruction {
   background: rgb(255, 233, 208);
