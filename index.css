@@ -86,7 +86,7 @@ a {
   color: #744F07;
 }
 
-.btn:hover {
+.btn :hover {
   background-color: #57c2ff;
 }
 
