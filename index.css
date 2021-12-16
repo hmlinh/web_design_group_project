@@ -285,3 +285,9 @@ footer p {
   margin-top: 15px;
   margin-bottom: 15px;
 }
+
+#end .button-primary {
+  font-family: "Lora", serif;
+  background-color: #abe0fe;
+  border-color: #abe0fe;
+}
