@@ -119,9 +119,8 @@ h2 {
 }
 
 #body2 #i1 {
-  margin-top: 80px;
+  margin-top: 100px;
   max-width: 60%;
-  max-height: 60%;
 }
 
 #body3 {
@@ -142,7 +141,6 @@ h2 {
 
 #body3 #i2 {
   max-width: 70%;
-  max-height: 70%;
 }
 
 .imageheader {
