@@ -286,7 +286,7 @@ footer p {
   margin-bottom: 15px;
 }
 
-#end .button-primary {
+footer .button{
   font-family: "Lora", serif;
   background-color: #abe0fe;
   border-color: #abe0fe;
