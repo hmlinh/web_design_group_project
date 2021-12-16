@@ -16,20 +16,22 @@ header .nav-bar {
 }
 
 .logo {
-  margin-top: 10px;
-  margin-bottom: 20px;
-}
-.smarthermo {
-  width: 120%;
+  font-weight: bold;
+  font-size: 180%;
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 15px;
 }
 
 .choices ul {
   list-style-type: none;
-  margin-top: 35px;
+  margin-top: 26px;
+  margin-bottom: 25px;
   font-weight: 500;
   font-size: 130%;
   text-align: right;
 }
+
 .choices li {
   display: inline;
 }
