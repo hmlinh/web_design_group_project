@@ -14,6 +14,10 @@ a:active {
 header .nav-bar {
   background-color: #ffe9d0;
   color: #744F07;
+   position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
 }
 
 .logo {
