@@ -1,6 +1,6 @@
 /* use this file to style your homepage */
 body {
-  font-family: "Lora", serif;
+  font-family: "Work Sans", sans-serif;
 }
 
 a,
@@ -70,12 +70,13 @@ a {
   text-transform: capitalize;
   color: #744F07;
   padding-top: 150px;
+  font-weight: 500;
 }
 
 #body1 .btn {
   background-color: #abe0fe;
   border-radius: 80px;
-  font-family: "Lora", serif;
+  font-family: "Work Sans", sans-serif;
   font-size: 130%;
   margin-top: 40px;
   margin-bottom: 150px;
@@ -103,6 +104,7 @@ a {
 }
 
 h2 {
+  font-weight: 500;
   padding-top: 40px;
   padding-bottom: 10px;
   color: #744F07;
@@ -150,9 +152,9 @@ h2 {
   background-repeat: no-repeat;
   background-size: cover;
 }
- #linh {
+#linh {
   background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9/photo-1575517112311-c371a9d614a8.jpeg?v=1639620739431");
-} 
+}
 
 #linh2 {
   background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9%2Fjon-nathon-stebbe-paydk0JcIOQ-unsplash.jpeg?v=1639241238462");
@@ -203,7 +205,7 @@ h2 {
 }
 
 #last-step {
-   margin-bottom: 40px;
+  margin-bottom: 40px;
 }
 
 .card {
@@ -220,6 +222,7 @@ h2 {
   background: #abe0fe;
   padding-top: 35px;
   padding-bottom: 35px;
+  font-weight: 400;
 }
 
 .card-title1 {
@@ -227,6 +230,7 @@ h2 {
   background: #abe0fe;
   padding-top: 15px;
   padding-bottom: 15px;
+  font-weight: 400;
 }
 .pic {
   max-width: 70%;
@@ -283,12 +287,12 @@ footer p {
   margin-bottom: 15px;
 }
 
-footer .button{
-  font-family: "Lora", serif;
+footer .button {
+  font-family: "Work Sans", sans-serif;
   background-color: #abe0fe;
   border-color: #abe0fe;
 }
 
 #contact {
-   margin-bottom: 10px;
+  margin-bottom: 10px;
 }
