@@ -47,6 +47,51 @@ a {
   border-radius: 9px;
 }
 
+#body1 {
+  background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9/Smart%2BThermostats.jpeg?v=1639695885419");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+#body1 h1 {
+  line-height: 1.28;
+  text-transform: capitalize;
+  color: #744F07;
+  padding-top: 185px;
+  font-weight: 500;
+}
+#body1 span {
+  background-color: #abe0fe;
+  border-radius: 25px;
+}
+
+#body1 .btn {
+  background-color: #abe0fe;
+  border-radius: 80px;
+  font-family: "Work Sans", sans-serif;
+  font-size: 130%;
+  margin-top: 40px;
+  margin-bottom: 183px;
+  padding: 16px;
+  height: auto;
+  color: #744F07;
+}
+
+/*#body1 a :hover {
+  background-color: #ffe9d0;
+}*/
+
+ #body1 a :hover {
+  background-color:  #57c2ff ;
+  color: white ;
+} 
+
+#body1 .container {
+  text-align: center;
+}
+
+
 #background-col {
   background: rgb(255, 233, 208);
   background: linear-gradient(
