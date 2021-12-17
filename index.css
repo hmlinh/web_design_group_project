@@ -184,6 +184,14 @@ h2 {
 #body4 #i4 {
   max-width: 70%;
 }
+
+#body4 #i5{
+   max-width: 200%;
+  text-align: center;
+}
+#body4 .image1{
+  text-align: center;
+}
 #body4 .step {
   margin-top: 120px;
 }
