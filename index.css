@@ -245,13 +245,15 @@ h2 {
 .name {
   text-align: center;
   font-size: 100%;
-  margin-bottom: 50px;
 }
 
 #body6 .container {
   border-top-style: solid;
   border-top-width: 1px;
   border-top-color: Gray;
+}
+#body6 {
+    padding-bottom: 105px;
 }
 
 footer {

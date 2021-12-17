@@ -63,7 +63,6 @@ a {
   text-shadow: #ffe9d0 1px 0 10px;
 }
 
-
 #body1 .btn {
   background-color: #abe0fe;
   border-radius: 80px;
@@ -80,15 +79,14 @@ a {
   background-color: #ffe9d0;
 }*/
 
- #body1 a :hover {
-  background-color:  #57c2ff ;
-  color: white ;
-} 
+#body1 a :hover {
+  background-color: #57c2ff;
+  color: white;
+}
 
 #body1 .container {
   text-align: center;
 }
-
 
 #background-col {
   background: rgb(255, 233, 208);
@@ -110,8 +108,13 @@ h3 {
   padding-top: 50px;
   padding-left: 50px;
   padding-right: 50px;
-  color: #744F07;
+  color: #ffe9d0;
   font-weight: 500;
+  background: #57c2ff;
+  padding: 8px;
+  margin-right: 85px;
+  margin-left: 85px;
+  border-radius: 80px;
 }
 
 .body p {
