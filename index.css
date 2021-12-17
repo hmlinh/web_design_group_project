@@ -207,7 +207,7 @@ h2 {
 .card {
   border-radius: 5px;
   box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.3);
-  min-height: 670px;
+  min-height: 675px;
   margin-bottom: 50px;
   background-color: #ffe9d0;
   position: relative;
@@ -227,6 +227,7 @@ h2 {
 }
 .pic {
   max-width: 70%;
+ 
 }
 .card-text {
   text-align: center;
