@@ -101,6 +101,7 @@ a {
 
 .body {
   padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 h3 {
@@ -130,7 +131,6 @@ h3 {
   padding-left: 85px;
   padding-right: 85px;
   text-align: justify;
-  padding-bottom: 5px;
 }
 
 .glitch-embed-wrap {
@@ -149,6 +149,11 @@ h3 {
   padding-left: 85px;
   padding-right: 85px;
   padding-bottom: 30px;
+  width:
+}
+
+#last-part {
+  padding-bottom: 60px
 }
 
 footer {
