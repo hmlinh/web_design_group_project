@@ -48,7 +48,7 @@ a {
 }
 
 #body1 {
-  background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9/Smart%2BThermostats.jpeg?v=1639695885419");
+  background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9/docbackground.jpg?v=1639741370694");
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -57,7 +57,7 @@ a {
 #body1 h1 {
   text-transform: capitalize;
   color: #57c2ff;
-  padding-top: 150px;
+  padding-top: 190px;
   font-weight: 500;
   line-height: normal;
   text-shadow: #ffe9d0 1px 0 10px;
@@ -70,7 +70,7 @@ a {
   font-family: "Work Sans", sans-serif;
   font-size: 130%;
   margin-top: 40px;
-  margin-bottom: 183px;
+  margin-bottom: 190px;
   padding: 16px;
   height: auto;
   color: #744F07;
