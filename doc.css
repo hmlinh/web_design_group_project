@@ -56,7 +56,7 @@ a {
 
 #body1 h1 {
   text-transform: capitalize;
-  color: #57c2ff;
+  color: #3fbbff;
   padding-top: 190px;
   font-weight: 500;
   line-height: normal;
@@ -119,6 +119,7 @@ h3 {
   text-align: justify;
   padding-left: 50px;
   padding-right: 50px;
+  margin-bottom: 30px;
 }
 .body #list {
   list-style-type: disc;
@@ -126,7 +127,6 @@ h3 {
   padding-left: 50px;
   padding-right: 50px;
   text-align: justify;
-  margin-bottom: 50px;
 }
 
 .glitch-embed-wrap {
