@@ -55,16 +55,14 @@ a {
 }
 
 #body1 h1 {
-  line-height: 1.28;
   text-transform: capitalize;
-  color: #744F07;
-  padding-top: 185px;
+  color: #57c2ff;
+  padding-top: 150px;
   font-weight: 500;
+  line-height: normal;
+  text-shadow: #ffe9d0 1px 0 10px;
 }
-#body1 span {
-  background-color: #abe0fe;
-  border-radius: 25px;
-}
+
 
 #body1 .btn {
   background-color: #abe0fe;
