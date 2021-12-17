@@ -20,7 +20,7 @@ header .nav-bar {
   margin-bottom: 15px;
 }
 .smarthermo {
-  width: 120%;
+max-width: 87%;
 }
 
 .choices ul {
@@ -39,19 +39,17 @@ a {
   padding: 20px;
 }
 
-
 #doc {
   padding: 5px;
   padding-right: 15px;
   padding-left: 15px;
   background-color: #abe0fe;
   border: 1px solid #abe0fe;
-  border-radius: 9px;
+  border-radius: 15px;
 }
 
-
 #body1 {
-background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9/Smart%2BThermostats.jpeg?v=1639695885419");
+  background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb9/Smart%2BThermostats.jpeg?v=1639695885419");
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -66,7 +64,7 @@ background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb
 }
 #body1 span {
   background-color: #abe0fe;
-  border-radius: 20px;
+  border-radius: 25px;
 }
 
 #body1 .btn {
@@ -81,14 +79,14 @@ background-image: url("https://cdn.glitch.me/6c5b7813-f9be-49fd-8b16-69f20afaecb
   color: #744F07;
 }
 
-#body1 a :hover {
-  background-color: #ffe9d0 
-}
+/*#body1 a :hover {
+  background-color: #ffe9d0;
+}*/
 
-/* #body1 a :hover {
+ #body1 a :hover {
   background-color:  #57c2ff ;
   color: white ;
-} */
+} 
 
 #body1 .container {
   text-align: center;
@@ -288,11 +286,11 @@ footer p {
 footer .button {
   font-family: "Work Sans", sans-serif;
   background-color: #abe0fe;
-   border-radius: 20px;
+  border-radius: 20px;
 }
 #mail :hover {
   color: white;
-   background-color: #57c2ff;
+  background-color: #57c2ff;
 }
 #contact {
   margin-bottom: 10px;

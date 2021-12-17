@@ -19,7 +19,7 @@ header .nav-bar {
   margin-bottom: 15px;
 }
 .smarthermo {
-  width: 120%;
+  max-width: 87%;
 }
 
 .choices ul {
@@ -29,7 +29,6 @@ header .nav-bar {
   font-size: 130%;
   text-align: right;
 }
-
 
 .choices li {
   display: inline;
@@ -133,11 +132,11 @@ footer p {
 footer .button {
   font-family: "Work Sans", sans-serif;
   background-color: #abe0fe;
-   border-radius: 20px;
+  border-radius: 20px;
 }
 #mail :hover {
   color: white;
-   background-color: #57c2ff;
+  background-color: #57c2ff;
 }
 #contact {
   margin-bottom: 10px;
