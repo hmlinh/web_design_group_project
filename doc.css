@@ -75,6 +75,10 @@ a {
   color: #744F07;
 }
 
+.btn:hover {
+  transform: scale(1.05);
+}
+
 /*#body1 a :hover {
   background-color: #ffe9d0;
 }*/
@@ -116,6 +120,11 @@ h3 {
   margin-right: 85px;
   margin-left: 85px;
   border-radius: 80px;
+  transition: transform 0.2s ease;
+}
+
+h3:hover {
+  transform: scale(1.05);
 }
 
 .body p {
@@ -148,8 +157,6 @@ h3 {
 .body img {
   padding-left: 85px;
   padding-right: 85px;
-  padding-bottom: 30px;
-  width:
 }
 
 #last-part {
