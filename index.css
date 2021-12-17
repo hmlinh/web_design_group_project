@@ -1,7 +1,7 @@
 /* use this file to style your homepage */
 body {
   font-family: "Work Sans", sans-serif;
-      line-height: 1.5;
+  line-height: 1.5;
 }
 
 a,
@@ -21,7 +21,7 @@ header .nav-bar {
   margin-bottom: 15px;
 }
 .smarthermo {
-max-width: 87%;
+  max-width: 87%;
 }
 
 .choices ul {
@@ -75,16 +75,18 @@ a {
   padding: 16px;
   height: auto;
   color: #744F07;
+  transition: transform 0.2s ease;
 }
 
 /*#body1 a :hover {
   background-color: #ffe9d0;
 }*/
 
- #body1 a :hover {
-  background-color:  #57c2ff ;
-  color: white ;
-} 
+#body1 a :hover {
+  background-color: #57c2ff;
+  color: white;
+  transform: scale(1.05);
+}
 
 #body1 .container {
   text-align: center;
@@ -226,7 +228,6 @@ h2 {
 }
 .pic {
   max-width: 70%;
- 
 }
 .card-text {
   text-align: center;
@@ -253,7 +254,7 @@ h2 {
   border-top-color: Gray;
 }
 #body6 {
-    padding-bottom: 105px;
+  padding-bottom: 105px;
 }
 
 footer {
@@ -289,11 +290,14 @@ footer .button {
   font-family: "Work Sans", sans-serif;
   background-color: #abe0fe;
   border-radius: 20px;
+  transition: transform 0.2s ease;
 }
 #mail :hover {
   color: white;
   background-color: #57c2ff;
+  transform: scale(1.05);
 }
+
 #contact {
   margin-bottom: 10px;
 }
