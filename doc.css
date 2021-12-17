@@ -117,15 +117,15 @@ h3 {
 .body p {
   font-size: 120%;
   text-align: justify;
-  padding-left: 60px;
-  padding-right: 60px;
+  padding-left: 85px;
+  padding-right: 85px;
   margin-bottom: 15px;
 }
 .body #list {
   list-style-type: disc;
   font-size: 120%;
-  padding-left: 60px;
-  padding-right: 60px;
+  padding-left: 85px;
+  padding-right: 85px;
   text-align: justify;
 }
 
@@ -142,8 +142,8 @@ h3 {
 }
 
 .body img {
-  padding-left: 60px;
-  padding-right: 60px;
+  padding-left: 85px;
+  padding-right: 85px;
   padding-bottom: 30px;
 }
 
